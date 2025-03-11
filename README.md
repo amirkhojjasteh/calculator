@@ -1,2 +1,0 @@
-# calculator
-calculator fot test
